@@ -18,9 +18,9 @@
     "ts-jest": "^29.0.3"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.3.8",
-    "@strapi/plugin-users-permissions": "4.3.8",
-    "@strapi/strapi": "4.3.8",
+    "@strapi/plugin-i18n": "^4.4.3",
+    "@strapi/plugin-users-permissions": "^4.4.3",
+    "@strapi/strapi": "^4.4.3",
     "better-sqlite3": "7.4.6"
   },
   "author": {
